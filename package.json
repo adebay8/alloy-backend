@@ -1,0 +1,24 @@
+{
+  "name": "alloy-backend",
+  "version": "1.0.0",
+  "description": "Backend app for alloy. Alloy is a payment card that aggregates multiple payment cards through its accompanying mobile app.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adebay8/alloy-backend.git"
+  },
+  "keywords": [
+    "fintech",
+    "payment",
+    "card"
+  ],
+  "author": "Onuchukwu Adebayo, Iyanu Sowande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adebay8/alloy-backend/issues"
+  },
+  "homepage": "https://github.com/adebay8/alloy-backend#readme"
+}
